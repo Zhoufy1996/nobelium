@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'ZFY BLOG',
-  author: '周飞宇',
+  author: 'Feiyu Zhou',
   email: 'hellozfy1996@gmail.com',
   link: 'https://nobelium-delta-lake.vercel.app/',
   description: 'This gonna be an awesome website.',
